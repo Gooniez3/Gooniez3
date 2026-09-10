@@ -12,6 +12,18 @@ Currently, I'm focused on building production-ready full-stack applications, AI-
 
 ## Featured Projects
 
+### CapyTech POS
+
+**Local-first point-of-sale system delivered for a live computer accessories shop.**
+
+A shop-computer till with checkout, variants, inventory, invoices, tax-aware profit reports, USB backup, and phone barcode scanning on the same Wi-Fi. PostgreSQL is the system of record; product photos stay on disk. Checkout uses database prices, stock locks, and idempotent charges so a retry cannot double-sell.
+
+**Tech:** React · TypeScript · Vite · Express · PostgreSQL · Socket.IO · Tailwind CSS
+
+[View Repository](https://github.com/Gooniez3/capytech-pos)
+
+---
+
 ### StudyMate AI
 
 **AI-powered learning platform built with modern LLM and agentic AI technologies.**
@@ -44,11 +56,11 @@ A production-deployed booking system featuring calendar-based flight schedules, 
 
 **Frontend**
 
-`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
+`React` `Next.js` `Vite` `Tailwind CSS` `HTML` `CSS`
 
 **Backend & Databases**
 
-`Node.js` `FastAPI` `.NET` `PostgreSQL` `MongoDB` `MySQL` `Oracle SQL` `Prisma`
+`Node.js` `Express` `FastAPI` `.NET` `PostgreSQL` `MongoDB` `MySQL` `Oracle SQL` `Prisma`
 
 **AI & LLM Engineering**
 
@@ -81,7 +93,7 @@ Massey University
 
 - Building and polishing production-ready full-stack applications
 - Developing AI-powered applications using RAG and agentic workflows
-- Working on real-world software development projects
+- Shipping real-world software, including a local-first POS in active shop use
 - Exploring software engineering and full-stack development opportunities
 
 ---
