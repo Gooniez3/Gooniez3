@@ -12,6 +12,30 @@ Currently, I'm focused on building production-ready full-stack applications, AI-
 
 ## Featured Projects
 
+### SG BusFlow
+
+**Singapore bus arrivals, journeys, and an in-app assistant on web and phone.**
+
+Nearby stops, live minutes from LTA DataMall, a walk-plus-bus journey planner, and Ask BusFlow. The assistant looks up the same API and answers with tappable cards. It does not invent a time. Next.js and Expo share one FastAPI service. No account; saved stops stay on the device.
+
+**Tech:** Next.js · TypeScript · Expo · React Native · FastAPI · PostgreSQL · PostGIS · Redis · Groq
+
+[View Repository](https://github.com/Gooniez3/SG-BusFlow)
+
+---
+
+### NetScope
+
+**Local desktop app for network monitoring and diagnostics.**
+
+Live latency, ping, DNS, traceroute, TCP ports, and LAN discovery in one window, with optional SQLite history. A rule-based explainer describes a saved session from the measurements. No account, no API key, and no language model.
+
+**Tech:** C# · .NET 10 · Avalonia · SQLite
+
+[View Repository](https://github.com/Gooniez3/NetScope)
+
+---
+
 ### CapyTech POS
 
 **Local-first point-of-sale system delivered for a live computer accessories shop.**
@@ -56,11 +80,11 @@ A production-deployed booking system featuring calendar-based flight schedules, 
 
 **Frontend**
 
-`React` `Next.js` `Vite` `Tailwind CSS` `HTML` `CSS`
+`React` `Next.js` `Expo` `React Native` `Avalonia` `Vite` `Tailwind CSS` `HTML` `CSS`
 
 **Backend & Databases**
 
-`Node.js` `Express` `FastAPI` `.NET` `PostgreSQL` `MongoDB` `MySQL` `Oracle SQL` `Prisma`
+`Node.js` `Express` `FastAPI` `.NET` `PostgreSQL` `PostGIS` `Redis` `MongoDB` `MySQL` `Oracle SQL` `Prisma` `SQLite`
 
 **AI & LLM Engineering**
 
@@ -91,7 +115,7 @@ Massey University
 
 ## Currently
 
-- Building and polishing production-ready full-stack applications
+- Building SG BusFlow, a Singapore bus app with live arrivals, journeys, and Ask BusFlow
 - Developing AI-powered applications using RAG and agentic workflows
 - Shipping real-world software, including a local-first POS in active shop use
 - Exploring software engineering and full-stack development opportunities
