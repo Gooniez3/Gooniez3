@@ -1,5 +1,9 @@
 # Saw Lwin Htoo (Finn)
 
+<p align="center">
+  <img src="assets/finn-cat-coding.gif" alt="Animated cat coding at a desktop" width="512">
+</p>
+
 ### Full-Stack Software Developer | AI/LLM Developer
 
 I'm a software developer based in Singapore, focused on building modern full-stack applications and AI-powered systems.
@@ -72,9 +76,20 @@ A production-deployed booking system featuring calendar-based flight schedules, 
 
 ---
 
+### Finn Portfolio
+
+**Personal portfolio showcasing my software projects, technical skills, and development experience.**
+
+A responsive website that brings together my full-stack, mobile, desktop, and AI projects, with links to their repositories and live applications.
+
+[View Repository](https://github.com/Gooniez3/Finn-portfolio) · [Live Website](https://finn-portfolio-blush.vercel.app)
+
 ## Technical Skills
 
 **Languages**
+
+---
+
 
 `TypeScript` `JavaScript` `Python` `Java` `C#` `C++` `Kotlin` `SQL`
 
